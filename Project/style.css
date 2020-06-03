@@ -19,8 +19,8 @@ h2 {
 
 h3 {
     margin-left: 15%;
-    margin-top: 1.5em;
-    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1.5em; /* better use px */
+    font-family: Arial, Helvetica, sans-serif; /* to html */
 }
 
 div {
@@ -55,6 +55,7 @@ figcaption {
     font-style: italic;
 }
 
+/* to figure */
 img {
     float: right;
 }
